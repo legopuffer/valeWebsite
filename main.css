@@ -1,0 +1,36 @@
+.nav a {
+  color: #00CED1;
+  font-size: 20px;
+  padding: 14px 10px;
+  font-family: sans-serif;
+
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('yogi.jpg');
+  height: 1000px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 60px;
+  font-family: "Lucida Grande", sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
