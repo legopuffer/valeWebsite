@@ -34,3 +34,8 @@
   font-size: 20px;
   color: #fff;
 }
+
+.body {
+  background-image: url ("yogi.jpg");
+  background-repeat: repeat-y;
+}
