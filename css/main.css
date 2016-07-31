@@ -10,6 +10,14 @@
   display: inline;
 }
 
+.pull-left {
+  text-align: left;
+}
+
+.pull-right {
+  text-align: right;
+}
+
 .jumbotron {
   background-image:url('../assets/yogi.jpeg');
   height: 800px;
