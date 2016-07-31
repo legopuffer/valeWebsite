@@ -33,8 +33,10 @@
 
 .jumbotron p {
   font-size: 20px;
-  padding-left: 30px;
+  padding-left: 60px;
   color: #fff;
+  font-weight: bold;
+  font-family: "Lucida Grande", serif;;
 }
 
 .body {
