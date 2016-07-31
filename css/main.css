@@ -6,6 +6,11 @@
 
 }
 
+.nav container {
+height: auto;
+}
+
+
 .nav li {
   display: inline;
 }
