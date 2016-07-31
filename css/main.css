@@ -11,8 +11,8 @@
 }
 
 .jumbotron {
-  background-image:url('assets/yogi.jpg');
-  height: 1000px;
+  background-image:url('../assets/yogi.jpeg');
+  height: 800px;
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -36,6 +36,6 @@
 }
 
 .body {
-  background-image: url ("assets/yogi.jpg");
+  background-image: url ("../assets/yogi.jpeg");
   background-repeat: repeat-y;
 }
