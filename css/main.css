@@ -4,14 +4,11 @@
   padding: 20px 30px;
   font-family: sans-serif;
   text-decoration: none;
-
-
 }
 
 .nav container {
 height: 20px;
 }
-
 
 .nav li {
   display: inline;
@@ -21,12 +18,9 @@ height: 20px;
   text-align: left;
 }
 
-
-
 .jumbotron {
   background-size: cover;
   background-repeat: no-repeat;
-
 }
 
 .jumbotron .container {
@@ -51,5 +45,6 @@ height: 20px;
 }
 
 body {
-  background-image: url("whaleBold.png");
+  background-image: url("whaleBold.png") repeat;
+  min-height: 100%;
 }
