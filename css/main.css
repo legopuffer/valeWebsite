@@ -52,6 +52,5 @@ height: 20px;
 }
 
 .body {
-  background: url (../assets/yogi.jpeg);
-  background-repeat: repeat-y;
+  background-color: #000000;
 }
