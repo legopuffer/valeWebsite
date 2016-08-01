@@ -1,7 +1,7 @@
 .nav a {
   color: #00CED1;
   font-size: 20px;
-  padding: 30px 30px;
+  padding: 20px 30px;
   font-family: sans-serif;
   text-decoration: none;
 
@@ -52,6 +52,6 @@ height: 20px;
 }
 
 .body {
-  background-image: url ("../assets/yogi.jpeg");
+  background: url (../assets/yogi.jpeg);
   background-repeat: repeat-y;
 }
