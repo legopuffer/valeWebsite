@@ -43,6 +43,7 @@ body {
   /* background: url("whaleBold.png") repeat;*/
 background-color: #E0FFFF;
 background: url(whaleBold.png);
-background-size: 25%;
+background-size: 50%;
+background-repeat: repeat-x;
 
 }
