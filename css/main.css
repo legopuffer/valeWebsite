@@ -45,6 +45,6 @@ height: 20px;
 }
 
 body {
-  background-image: url("whaleBold.png") repeat;
+  background: url("whaleBold.png") repeat;
   min-height: 100%;
 }
